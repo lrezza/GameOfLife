@@ -1,0 +1,10 @@
+D:\Documents\VisualStudio\Projects\GameOfLife\bin\Debug\GameOfLife.exe.config
+D:\Documents\VisualStudio\Projects\GameOfLife\bin\Debug\GameOfLife.exe
+D:\Documents\VisualStudio\Projects\GameOfLife\bin\Debug\GameOfLife.pdb
+D:\Documents\VisualStudio\Projects\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
+D:\Documents\VisualStudio\Projects\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+D:\Documents\VisualStudio\Projects\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.cache
+D:\Documents\VisualStudio\Projects\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+D:\Documents\VisualStudio\Projects\GameOfLife\obj\Debug\GameOfLife.exe
+D:\Documents\VisualStudio\Projects\GameOfLife\obj\Debug\GameOfLife.pdb
+D:\Documents\VisualStudio\Projects\GameOfLife\obj\Debug\GameOfLife.MainForm.resources
